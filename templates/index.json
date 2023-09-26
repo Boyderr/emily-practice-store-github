@@ -58,8 +58,9 @@
         "template--21146079985951__ce65b318-0f7e-4aaa-8a8b-74f6565fb186-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/bringitback-program-icon.svg",
+            "title": "Our Guarantee",
+            "text": "<p>We guarantee ALL of our products through our Bring-It-Back program.<\/p>",
             "link_label": "",
             "link": ""
           }
